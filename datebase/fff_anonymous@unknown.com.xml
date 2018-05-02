@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd"
+       pcGtsId="">
+    <Metadata>
+        <Creator>anonymous@unknown.com</Creator>
+        <Created>2017-ʮ����-20 05-40-26+0000</Created>
+        <LastChange>2017-ʮ����-20 05-40-26+0000</LastChange>
+        <Comments></Comments>
+    </Metadata>
+    <Page imageWidth="330" imageHeight="265" imageFilename="fff.png">
+        <TextRegion type="text" id="1323352270" custom="0" comments="">
+            <Coords>
+                <Point x="2" y="3"/>
+                <Point x="162" y="0"/>
+                <Point x="169" y="249"/>
+                <Point x="167" y="265"/>
+                <Point x="3" y="262"/>
+                <Point x="1" y="0"/>
+            </Coords>
+        </TextRegion>
+    </Page>
+</PcGts>

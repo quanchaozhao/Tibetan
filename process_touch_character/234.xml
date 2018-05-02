@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root Author="Quanchao Zhao" Email="quanchaozhao@yeah.net">
+    <Page BaseLine="12" class="པ,འི" imageFilename="chos lugs-pan chen blo chos kyi rgyal mtshan gsung 'bum-1-0002_1_01.png" imageHeight="54" imageWidth="56" strokeWidth="8">
+        <TextRegion>
+            <Coords>
+                <Point x="26" y="36" />
+                <Point x="26" y="37" />
+            </Coords>
+        </TextRegion>
+    </Page>
+</root>
